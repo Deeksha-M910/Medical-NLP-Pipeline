@@ -50,5 +50,3 @@ An AI-powered system for **medical transcription, summarization, sentiment analy
 
 
 --- 
-
-Thank you for using **Physician Notetaker**! 🚀
